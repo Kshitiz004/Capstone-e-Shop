@@ -1,0 +1,32 @@
+.logout {
+    background-color: red !important;
+}
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.fill {
+    height: calc(100vh - 64px);
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+label.MuiFormLabel-root{
+    z-index: 0;
+}
