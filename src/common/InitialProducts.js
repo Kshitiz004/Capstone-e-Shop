@@ -14,13 +14,13 @@ export default function InitialProducts() {
             photo: Shoes,
             category: 'FOOTWEAR',
             modifiedDate: new Date().toLocaleString(),
-            quantity: 50,
+            quantity: 60,
             manufacturer: 'TATA'
         },
         {
             key: 2,
             name:'Shirt',
-            price:300,
+            price:250,
             description: "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
             photo: Shirt,
             category: 'APPAREL',
@@ -36,7 +36,7 @@ export default function InitialProducts() {
             photo: Phone,
             category: 'ELECTRONICS',
             modifiedDate: new Date().toLocaleString(),
-            quantity: 500,
+            quantity: 300,
             manufacturer: 'TATA'
         },
         {
@@ -47,7 +47,7 @@ export default function InitialProducts() {
             photo: Facewash,
             category: 'PERSONAL CARE',
             modifiedDate: new Date().toLocaleString(),
-            quantity: 200,
+            quantity: 150,
             manufacturer: 'TATA'
         },
         {
@@ -58,7 +58,7 @@ export default function InitialProducts() {
             photo: Sandels,
             category: 'FOOTWEAR',
             modifiedDate: new Date().toLocaleString(),
-            quantity: 70,
+            quantity: 60,
             manufacturer: 'TATA'
         }
     ];
