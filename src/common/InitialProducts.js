@@ -9,7 +9,7 @@ export default function InitialProducts() {
         {
             key: 1,
             name:'Shoes',
-            price:1000,
+            price:800,
             description: "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
             photo: Shoes,
             category: 'FOOTWEAR',
@@ -25,13 +25,13 @@ export default function InitialProducts() {
             photo: Shirt,
             category: 'APPAREL',
             modifiedDate: new Date().toLocaleString(),
-            quantity: 100,
+            quantity: 150,
             manufacturer: 'TATA'
         },
         {
             key: 3,
             name:'Phone',
-            price:70000,
+            price:60000,
             description: "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
             photo: Phone,
             category: 'ELECTRONICS',
@@ -42,7 +42,7 @@ export default function InitialProducts() {
         {
             key: 4,
             name:'Face Wash',
-            price:400,
+            price:300,
             description: "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
             photo: Facewash,
             category: 'PERSONAL CARE',
@@ -53,7 +53,7 @@ export default function InitialProducts() {
         {
             key: 5,
             name:'Sandels',
-            price:700,
+            price:600,
             description: "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
             photo: Sandels,
             category: 'FOOTWEAR',
